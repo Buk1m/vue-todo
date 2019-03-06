@@ -1,5 +1,15 @@
 # vue-todo
 
+## One Command To Rule Them All!
+```
+git clone https://github.com/Buk1m/vue-todo.git;cd vue-todo;npm install;start chrome http://localhost:8080;npm run serve
+```
+
+## Deployed on:
+
+ > Checkout live! [vue-todo](tovue.netlify.com)
+
+
 ## Project setup
 ```
 npm install
