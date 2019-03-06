@@ -7,7 +7,7 @@ git clone https://github.com/Buk1m/vue-todo.git;cd vue-todo;npm install;start ch
 
 ## Deployed on:
 
- > Checkout live! [vue-todo](tovue.netlify.com)
+ > ## Checkout live! [vue-todo](https://tovue.netlify.com)
 
 
 ## Project setup
