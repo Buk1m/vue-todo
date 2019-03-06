@@ -1,4 +1,4 @@
-# test2
+# vue-todo
 
 ## Project setup
 ```
@@ -32,4 +32,4 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-todo
+
